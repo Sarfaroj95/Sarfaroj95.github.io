@@ -394,6 +394,7 @@ section .title::after{
 }
 .teams .carousel .card:hover{
     background: crimson;
+    cursor: pointer;
 }
 .teams .carousel .card .box{
     display: flex;
@@ -553,6 +554,22 @@ footer span a:hover{
     text-decoration: underline;
 }
 
+.alert{
+    border-radius: 6px;
+   margin-top: 10px;
+   margin-bottom: 14px;
+    padding: 6px 14px;
+    font-size: 16px;
+    
+}
+.alert-success{
+    border: 1px solid green;
+    background-color: rgb(216, 250, 216);
+}
+.alert-danger{
+    border: 1px solid red;
+    background-color: rgb(253, 212, 212);
+}
 
 /* responsive media query start */
 @media (max-width: 1104px) {
