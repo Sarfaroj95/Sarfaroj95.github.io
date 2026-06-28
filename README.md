@@ -1,7 +1,12 @@
-`This is my first prortfolio page`
 
-##Technology used
--> HTML
--> CSS
--> Bootstrap
--> JavaScript
+# Personal Portfolio
+
+## Technology used
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+
+```
+ This is my first prortfolio page
+```
