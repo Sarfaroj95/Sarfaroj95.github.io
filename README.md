@@ -1,3 +1,3 @@
 # Personal Portfolio 
 
-## The page update on Jun-2026
+## The portfolio web page update on Jun-2026
